@@ -1,0 +1,3 @@
+/home/parallels/robotics_project/build/CMakeFiles/edit_cache.dir
+/home/parallels/robotics_project/build/CMakeFiles/Planning.dir
+/home/parallels/robotics_project/build/CMakeFiles/rebuild_cache.dir
